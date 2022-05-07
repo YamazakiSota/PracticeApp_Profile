@@ -17,7 +17,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
     }
     
     @IBAction func tapButton1(){
@@ -52,4 +51,3 @@ class ViewController: UIViewController {
         profileCommentLavel.text = "飛行機に乗って、空を散歩すること"
     }
 }
-
